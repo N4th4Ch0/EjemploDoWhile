@@ -1,0 +1,17 @@
+D:\Practicas\EjemploDo-While\EjemploDo-While\bin\Debug\net6.0-windows\EjemploDo-While.exe
+D:\Practicas\EjemploDo-While\EjemploDo-While\bin\Debug\net6.0-windows\EjemploDo-While.deps.json
+D:\Practicas\EjemploDo-While\EjemploDo-While\bin\Debug\net6.0-windows\EjemploDo-While.runtimeconfig.json
+D:\Practicas\EjemploDo-While\EjemploDo-While\bin\Debug\net6.0-windows\EjemploDo-While.dll
+D:\Practicas\EjemploDo-While\EjemploDo-While\bin\Debug\net6.0-windows\EjemploDo-While.pdb
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.vbproj.AssemblyReference.cache
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo_While.Form1.resources
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.vbproj.GenerateResource.cache
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.AssemblyInfoInputs.cache
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.AssemblyInfo.vb
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.vbproj.CoreCompileInputs.cache
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.dll
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\refint\EjemploDo-While.dll
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.pdb
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\EjemploDo-While.genruntimeconfig.cache
+D:\Practicas\EjemploDo-While\EjemploDo-While\obj\Debug\net6.0-windows\ref\EjemploDo-While.dll
